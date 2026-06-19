@@ -1,5 +1,11 @@
 # Walkie-Talkie - 最小可验证核心 Demo
 
+[![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go)](https://go.dev)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?logo=kotlin)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Android-Compose-3DDC84?logo=android)](https://developer.android.com/jetpack/compose)
+[![Stars](https://img.shields.io/github/stars/kent10636/walkie-talkie?style=social)](https://github.com/kent10636/walkie-talkie/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/kent10636/walkie-talkie)](https://github.com/kent10636/walkie-talkie/commits/main)
+
 基于 2015 年规划文档的现代实现。当前目标：**最小可验证的核心对讲机 Demo**。
 
 **核心流程**：
